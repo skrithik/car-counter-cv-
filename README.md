@@ -15,7 +15,7 @@ The **Car Counter Project** is a computer vision-based system designed to automa
 - **Programming Language**: Python
 - **Deep Learning Framework**: TensorFlow / OpenCV / YOLO
 - **Libraries**: OpenCV, NumPy, Pandas, Matplotlib
-- **Model Used**: Pre-trained YOLOv4/YOLOv5 or a custom CNN model
+- **Model Used**: Pre-trained YOLO
 
 ## Usage
 - Run the script with a video file or webcam feed.
